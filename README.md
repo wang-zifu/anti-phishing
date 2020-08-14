@@ -10,4 +10,10 @@
 | 6  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 7  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 8  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-### 准确率直接去文件看。
+#### 准确率直接去文件看。
+### 思考
+* bert适合解决这个问题吗？
+* intent分类
+    > 一般越迫切越被怀疑
+* 多维数据融合
+* 个人语法特征
