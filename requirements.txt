@@ -1,0 +1,7 @@
+tensorflow
+plotly
+seaborn
+sklearn
+numpy
+pandas
+tldextract
