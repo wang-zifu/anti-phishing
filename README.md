@@ -6,11 +6,12 @@
 | 2  | url attention | malicious_attention.ipynd  | 完成 | ----  | ----  |
 | 3  | url features decision tree | malicious_url_by_features.ipynb  | 完成 | 有难度  | ----  |
 | 4  | url  decision tree | decision_tree_for_urls.ipynb  | 完成 | ----  | 不准  |
-| 5  | html structure decision tree | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 6  | html structure  attention | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 7  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 8  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 9  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 5  | html structure naive bayes | phishing_naive_bayes.ipynd  | 完成 | ----  | ----  |
+| 6  | html structure decision tree | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 7  | html structure  attention | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 8  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 9  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 10  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 #### 准确率直接去文件看。
 ### 思考
 * bert适合解决这个问题吗？
