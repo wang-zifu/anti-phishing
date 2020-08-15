@@ -9,3 +9,4 @@ tld
 keras-tuner
 PyQuery
 pydotplus
+mlxtend
