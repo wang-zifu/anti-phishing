@@ -5,3 +5,4 @@ sklearn
 numpy
 pandas
 tldextract
+tld
