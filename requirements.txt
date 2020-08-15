@@ -7,3 +7,5 @@ pandas
 tldextract
 tld
 keras-tuner
+PyQuery
+pydotplus
