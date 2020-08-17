@@ -12,7 +12,7 @@
 | 8  | fraudulent bert | by_bert.ipynb  | 完成 | ----  | ----  |
 | 9  | fraudulent elmo | by_elmo.ipynb  | 完成 | ----  | ----  |
 | 10  | fraudulent for email | email.ipynb  | 完成 | ----  | 利用词特征效果很好  |
-| 11  | fraudulent multi_task | multi_task.ipynb  | 完成 | ----  | ----  |
+| 11  | fraudulent multi_task | Multi-task_Learning.ipynb  | 完成 | ----  | ----  |
 | 12  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 13  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 14  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
