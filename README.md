@@ -13,7 +13,7 @@
 | 9  | fraudulent elmo | by_elmo.ipynb  | 完成 | ----  | ----  |
 | 10  | fraudulent for email | email.ipynb  | 完成 | ----  | 利用词特征效果很好  |
 | 11  | fraudulent multi_task | Multi-task_Learning.ipynb  | 完成 | ----  | ----  |
-| 12  | phishing dataset classical method | IWSPA.ipynd  | 未完成 | ----  | ----  |
+| 12  | phishing dataset classical and fasttext | IWSPA.ipynd  | 完成 | header + noheader  | ----  |
 | 13  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 14  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 | 15  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |

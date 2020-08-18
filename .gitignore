@@ -3,3 +3,6 @@ output
 url_method/.ipynb_checkpoints/
 **/.ipynb_checkpoints/
 data/enron
+mail_method/.submission/
+mail_method/.data/
+mail_method/.models/
