@@ -14,9 +14,10 @@
 | 10  | fraudulent for email | email.ipynb  | 完成 | ----  | 利用词特征效果很好  |
 | 11  | fraudulent multi_task | Multi-task_Learning.ipynb  | 完成 | ----  | ----  |
 | 12  | phishing dataset classical and fasttext | IWSPA.ipynd  | 完成 | header + noheader  | ----  |
-| 13  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 14  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
-| 15  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 13  | robust nlp  | robust_nlp.ipynd  | 进行中 | ----  | ----  |
+| 14  | html + header  | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 15  | semantic | malicious_attention.ipynd  | 未完成 | ----  | ----  |
+| 16  | visual similarity | malicious_attention.ipynd  | 未完成 | ----  | ----  |
 #### 准确率直接去文件看。
 ### 思考
 * bert适合解决这个问题吗？
