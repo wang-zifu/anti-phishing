@@ -5,7 +5,7 @@
 | 1  | url cnn分类 | malicious_cnn.ipynb | 完成 | 可以  | ----  |
 | 2  | url attention | malicious_attention.ipynd  | 完成 | ----  | ----  |
 | 3  | url features decision tree | malicious_url_by_features.ipynb  | 完成 | 有难度  | ----  |
-| 4  | url  decision tree | decision_tree_for_urls.ipynb  | 完成 | ----  | 不准  |
+| 4  | url  decision tree | decision_tree_for_urls.ipynb  | 完成 | ----  | 非常好  |
 | 5  | html structure0 naive bayes | phishing_naive_bayes.ipynd  | 完成 | ----  | ----  |
 | 6  | html structure0 decision tree | phishing_decision_tree.ipynd  | 完成 | ----  | ----  |
 | 7  | html structure1  ensemble | structure1_ensemble.ipynb  | 完成 | ----  | ----  |
